@@ -1,4 +1,6 @@
- ![avatar](img/winnie.jpg)
+#MiniC-Compiler  
+ 
+![avatar](img/winnie.jpg)
 
 This is a course project for Practice for Compiler Design, School of EECS Peking University, 2018 autumn
 
